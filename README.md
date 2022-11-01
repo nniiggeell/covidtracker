@@ -1,4 +1,10 @@
-# covidtracker
+# Covid Tracker
+This personal project was done to familiarise myself with frontend and webdev, by creating a Covid-19 tracker that provides country-specific data, and global statistics. 
+
+The data was fetched from https://api.covid19api.com/summary.
+
+### Project Features
+This webpage allows users to view Covid-19 cases and deaths, in total, and for the day. The user can also select specific countries to view the statistics. 
 
 ## Project setup
 ```
