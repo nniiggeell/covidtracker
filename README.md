@@ -6,6 +6,9 @@ The data was fetched from https://api.covid19api.com/summary.
 ### Project Features
 This webpage allows users to view Covid-19 cases and deaths, in total, and for the day. The user can also select specific countries to view the statistics. 
 
+### Preview
+![alt text](https://github.com/nniiggeell/covidtracker/images/Preview.png)
+
 ## Project setup
 ```
 npm install
